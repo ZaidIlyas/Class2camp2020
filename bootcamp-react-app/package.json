@@ -30,5 +30,10 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "name1": "my-package",
+    "scripts1": {
+      "build": "babel src -d lib",
+      "test": "jest"
+    }
 }
